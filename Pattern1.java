@@ -6,7 +6,7 @@ class Pattern1
         {
             for(int j=1;j<=4;j++)
             {
-                System.out.print("* ");
+                System.out.print("# ");
             }
             System.out.println();
         }
